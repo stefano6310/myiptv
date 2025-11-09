@@ -1,0 +1,192 @@
+#EXTM3U
+
+# National DVB-T
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" group-title="National DVB-T", Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" group-title="National DVB-T", Rai 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" group-title="National DVB-T", Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" group-title="National DVB-T", Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" group-title="National DVB-T", Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" group-title="National DVB-T", Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="La7.it" tvg-name="La7" group-title="National DVB-T", La7
+https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+#EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8" group-title="National DVB-T", TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" group-title="National DVB-T", Nove
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+#EXTINF:-1 tvg-id="20.it" tvg-name="20 Mediaset" group-title="National DVB-T", 20 Mediaset
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" group-title="National DVB-T", Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" group-title="National DVB-T", Iris
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" group-title="National DVB-T", Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" group-title="National DVB-T", Rai Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" group-title="National DVB-T", Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="CieloTV.it" tvg-name="Cielo" group-title="National DVB-T", Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:-1 tvg-id="27Twentyseven.it" tvg-name="27 Twentyseven" group-title="National DVB-T", 27 Twentyseven
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="TV2000.va" tvg-name="TV 2000" group-title="National DVB-T", TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-id="La7Cinema.it" tvg-name="La7 Cinema" group-title="National DVB-T", La7 Cinema
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+#EXTINF:-1 tvg-id="La5.it" tvg-name="La 5" group-title="National DVB-T", La 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="RealTimeItaly.it" tvg-name="Real Time" group-title="National DVB-T", Real Time
+https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+#EXTINF:-1 tvg-id="QVCItaly.it" tvg-name="QVC" group-title="National DVB-T", QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 tvg-id="FoodNetworkItaly.it" tvg-name="Food Network" group-title="National DVB-T", Food Network
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" group-title="National DVB-T", Cine34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus" group-title="National DVB-T", Focus
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="RTL1025TV.it" tvg-name="RTL 102.5" group-title="National DVB-T", RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="Discovery Channel" group-title="National DVB-T", Discovery Channel
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo" group-title="National DVB-T", Giallo
+https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime" group-title="National DVB-T", Top Crime
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="BoingItaly.it" tvg-name="BOING" group-title="National DVB-T", BOING
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" group-title="National DVB-T", K2
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" group-title="National DVB-T", Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai YoYo" group-title="National DVB-T", Rai YoYo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" group-title="National DVB-T", Frisbee
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+#EXTINF:-1 tvg-id="CartoonitoItaly.it" tvg-name="Cartoonito" group-title="National DVB-T", Cartoonito
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" group-title="National DVB-T", Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" group-title="National DVB-T", Rai News 24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" group-title="National DVB-T", Italia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24" group-title="National DVB-T", Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:-1 tvg-id="TGCom24.it" tvg-name="TGCOM 24" group-title="National DVB-T", TGCOM 24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="DMAXItaly.it" tvg-name="DMAX" group-title="National DVB-T", DMAX
+https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" group-title="National DVB-T", Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" group-title="National DVB-T", Mediaset Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="HGTVItaly.it" tvg-name="HGTV – Home & Garden Tv" group-title="National DVB-T", HGTV – Home & Garden Tv
+https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" group-title="National DVB-T", Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" group-title="National DVB-T", Rai Sport
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" group-title="National DVB-T", Motor Trend
+https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia Plus" group-title="National DVB-T", Sportitalia Plus
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelTV.it" tvg-name="Travel TV" group-title="National DVB-T", Travel TV
+https://5a1178b42cc03.streamlock.net/goldsat/goldsat/playlist.m3u8
+#EXTINF:-1 tvg-id="DonnaTV.it" tvg-name="Donna TV" group-title="National DVB-T", Donna TV
+https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis" group-title="National DVB-T", SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 tvg-id="AlmaTV.it" tvg-name="Alma TV" group-title="National DVB-T", Alma TV
+https://5a1178b42cc03.streamlock.net/alma/alma/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio105TV.it" tvg-name="Radio 105 TV" group-title="National DVB-T", Radio 105 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101 TV" group-title="National DVB-T", R101 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="Deejay TV" group-title="National DVB-T", Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-name="RadioItaliaTV" group-title="National DVB-T", RadioItaliaTV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-id="KissKissTV.it" tvg-name="Radio KISS KISS TV" group-title="National DVB-T", Radio KISS KISS TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiRadio2Visual.it" tvg-name="Rai Radio 2 Visual Radio" group-title="National DVB-T", Rai Radio 2 Visual Radio
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="RTL1025Traffic.it" tvg-name="RTL 102.5 Traffic" group-title="National DVB-T", RTL 102.5 Traffic
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8
+#EXTINF:-1 tvg-id="Manga.it" tvg-name="MAN-GA" group-title="National DVB-T", MAN-GA
+https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio24TV.it" tvg-name="Radio24-IlSole24OreTV" group-title="National DVB-T", Radio24-IlSole24OreTV
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
+#EXTINF:-1 tvg-id="RadioFrecciaTV.it" tvg-name="RadioFreccia" group-title="National DVB-T", RadioFreccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
+#EXTINF:-1 tvg-id="RDSSocialTV.it" tvg-name="RDS Social TV" group-title="National DVB-T", RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+#EXTINF:-1 tvg-id="RadioZetaTV.it" tvg-name="Radio ZETA" group-title="National DVB-T", Radio ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTVSerieA.it" tvg-name="Radio TV Serie A con RDS" group-title="National DVB-T", Radio TV Serie A con RDS
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
+
+# Satellite
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="Sportitalia SOLOCALCIO" group-title="Satellite", Sportitalia SOLOCALCIO
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Bike.it" tvg-name="BIKE Channel" group-title="Satellite", BIKE Channel
+https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
+#EXTINF:-1 tvg-id="RadioMonteCarloTV.it" tvg-name="Radio Montecarlo TV" group-title="Satellite", Radio Montecarlo TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-name="Virgin Radio TV" group-title="Satellite", Virgin Radio TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="SenatoTV.it" tvg-name="Senato TV" group-title="Satellite", Senato TV
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 tvg-id="CameradeiDeputati.it" tvg-name="Camera dei Deputati" group-title="Satellite", Camera dei Deputati
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai4K.it" tvg-name="Rai 4K" group-title="Satellite", Rai 4K
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it" tvg-name="UniNettuno University TV" group-title="Satellite", UniNettuno University TV
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+
+# Regional DVB-T
+#EXTINF:-1 tvg-id="111_Tv" tvg-name="111 Tv" group-title="Regional DVB-T", 111 Tv
+https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+#EXTINF:-1 tvg-id="12TVParma.it" tvg-name="12 Tv Parma" group-title="Regional DVB-T", 12 Tv Parma
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="4_You_Tv" tvg-name="4 You Tv" group-title="Regional DVB-T", 4 You Tv
+https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+#EXTINF:-1 tvg-id="Abc_Tv" tvg-name="Abc Tv" group-title="Regional DVB-T", Abc Tv
+https://diretta.arcapuglia.it:8080/live/abctv/index.m3u8
+#EXTINF:-1 tvg-id="ABChannel.it" tvg-name="AB Channel" group-title="Regional DVB-T", AB Channel
+https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
+#EXTINF:-1 tvg-id="Alpauno" tvg-name="Alpauno" group-title="Regional DVB-T", Alpauno
+https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
+#EXTINF:-1 tvg-id="AltoAdigeTV.it" tvg-name="Alto Adige Tv" group-title="Regional DVB-T", Alto Adige Tv
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Antenna_2_Bergamo" tvg-name="Antenna 2 Bergamo" group-title="Regional DVB-T", Antenna 2 Bergamo
+https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Antenna_3_Massa" tvg-name="Antenna 3 Massa" group-title="Regional DVB-T", Antenna 3 Massa
+https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
+#EXTINF:-1 tvg-id="AntennaTreNordest.it" tvg-name="Antenna 3 Veneto Nord Est" group-title="Regional DVB-T", Antenna 3 Veneto Nord Est
+https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Antenna_Sud" tvg-name="Antenna Sud" group-title="Regional DVB-T", Antenna Sud
+https://live.antennasudwebtv.it:9443/hls/vod.m3u8
+#EXTINF:-1 tvg-id="Antenna_Sud_Extra" tvg-name="Antenna Sud Extra" group-title="Regional DVB-T", Antenna Sud Extra
+https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
+#EXTINF:-1 tvg-id="Aristanis_SuperTv" tvg-name="Aristanis SuperTv" group-title="Regional DVB-T", Aristanis SuperTv
+https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
+#EXTINF:-1 tvg-id="Arte_Network_Orler" tvg-name="Arte Network Orler" group-title="Regional DVB-T", Arte Network Orler
+https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="AuroraArte.it" tvg-name="Aurora Arte" group-title="Regional DVB-T", Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
+#EXTINF:-1 tvg-id="AzzurraTV.it" tvg-name="Azzurra Tv Vco" group-title="Regional DVB-T", Azzurra Tv Vco
+https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8
+#EXTINF:-1 tvg-id="Basilicata_1_Tv" tvg-name="Basilicata 1 Tv" group-title="Regional DVB-T", Basilicata 1 Tv
+http://77.68.40.210:8888/hls/basilicata1.m3u8
+#EXTINF:-1 tvg-id="Bergamo_Tv" tvg-name="Bergamo Tv" group-title="Regional DVB-T", Bergamo Tv
+https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="BomChannel.it" tvg-name="BOM Channel" group-title="Regional DVB-T", BOM Channel
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+#EXTINF:-1 tvg-id="ByoBlu" tvg-name="ByoBlu" group-title="Regional DVB-T", ByoBlu
