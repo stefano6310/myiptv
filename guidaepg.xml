@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="none" generator-info-url="none">
+  <channel id="Sky.Uno.it">
+    <display-name lang="it">Sky Uno</display-name>
+    <icon src="https://guidatv.sky.it/logo/477skyuno_Light_Fit.png?checksum=cd37fd56-01f7-443e-a62d-ff99bf4c1b1c?tr=n-logo_80" />
+    <icon src="https://guidatv.sky.it/logo/477skyuno_Light_Fit.png?checksum=cd37fd56-01f7-443e-a62d-ff99bf4c1b1c?tr=n-logo_80" />
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Sky.Uno.+1.it">
+    <display-name lang="it">Sky Uno +1</display-name>
+    <icon src="https://guidatv.sky.it/logo/266skyuno1_Light_Fit.png?checksum=66b0e194-3633-4ade-a4c3-b458e36ea8e9?tr=n-logo_80" />
+    <icon src="https://guidatv.sky.it/logo/266skyuno1_Light_Fit.png?checksum=66b0e194-3633-4ade-a4c3-b458e36ea8e9?tr=n-logo_80" />
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Sky.Atlantic.it">
+    <display-name lang="it">Sky Atlantic</display-name>
+    <icon src="https://guidatv.sky.it/logo/226skyatlantic_Light_Fit.png?checksum=55e0b430-8ac2-482a-80eb-d79e3678ea49?tr=n-logo_80" />
+    <icon src="https://guidatv.sky.it/logo/226skyatlantic_Light_Fit.png?checksum=55e0b430-8ac2-482a-80eb-d79e3678ea49?tr=n-logo_80" />
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Sky.Atlantic.Maratone.it">
+    <display-name lang="it">Sky Atlantic Maratone</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Sky.Serie.it">
+    <display-name lang="it">Sky Serie</display-name>
+    <icon src="https://guidatv.sky.it/logo/684skyserie_Light_Fit.png?checksum=9fa612b4-52c6-4a22-9c98-40495a42475b?tr=n-logo_80" />
+    <icon src="https://guidatv.sky.it/logo/684skyserie_Light_Fit.png?checksum=9fa612b4-52c6-4a22-9c98-40495a42475b?tr=n-logo_80" />
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="TV8.it">
+    <display-name lang="it">TV8 HD</display-name>
+    <icon src="https://guidatv.sky.it/logo/260tv8hd_Light_Fit.png?checksum=938addc1e1adaac5be9fdf942d4c7f25?tr=n-logo_80" />
+    <icon src="https://guidatv.sky.it/logo/260tv8hd_Light_Fit.png?checksum=938addc1e1adaac5be9fdf942d4c7f25?tr=n-logo_80" />
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai1.it">
+    <display-name lang="it">Rai Uno</display-name>
+    <icon src="https://guidatv.sky.it/logo/499raiunohd_Light_Fit.png?checksum=97d81395-8968-45ec-9f37-183069176466?tr=n-logo_80" />
+    <icon src="https://guidatv.sky.it/logo/499raiunohd_Light_Fit.png?checksum=97d81395-8968-45ec-9f37-183069176466?tr=n-logo_80" />
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai2.it">
+    <display-name lang="it">Rai Due</display-name>
+    <icon src="https://guidatv.sky.it/logo/500raiduehd_Light_Fit.png?checksum=2e5163b8-67be-4395-829d-5a2a9e32b0fe?tr=n-logo_80" />
+    <icon src="https://guidatv.sky.it/logo/500raiduehd_Light_Fit.png?checksum=2e5163b8-67be-4395-829d-5a2a9e32b0fe?tr=n-logo_80" />
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai3.it">
+    <display-name lang="it">Rai Tre</display-name>
+    <icon src="https://guidatv.sky.it/logo/501raitrehd_Light_Fit.png?checksum=b14620f4-5f4c-474c-8f92-5645062a7d4a?tr=n-logo_80" />
+    <icon src="https://guidatv.sky.it/logo/501raitrehd_Light_Fit.png?checksum=b14620f4-5f4c-474c-8f92-5645062a7d4a?tr=n-logo_80" />
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rete4.it">
+    <display-name lang="it">Rete 4</display-name>
+    <icon src="https://guidatv.sky.it/logo/780rete4hd_Light_Fit.png?checksum=a1d374ac-d27e-4623-933e-e61a499a22d3?tr=n-logo_80" />
+    <icon src="https://guidatv.sky.it/logo/780rete4hd_Light_Fit.png?checksum=a1d374ac-d27e-4623-933e-e61a499a22d3?tr=n-logo_80" />
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Canale5.it">
+    <display-name lang="it">Canale 5</display-name>
+    <icon src="https://guidatv.sky.it/logo/781canale5hd_Light_Fit.png?checksum=d0a2f4e8-ed47-494b-a634-1111fa6771d9?tr=n-logo_80" />
+    <icon src="https://guidatv.sky.it/logo/781canale5hd_Light_Fit.png?checksum=d0a2f4e8-ed47-494b-a634-1111fa6771d9?tr=n-logo_80" />
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Italia1.it">
+    <display-name lang="it">Italia 1</display-name>
+    <icon src="https://guidatv.sky.it/logo/782italia1hd_Light_Fit.png?checksum=f978013e-3f62-4217-a162-849c716503b4?tr=n-logo_80" />
+    <icon src="https://guidatv.sky.it/logo/782italia1hd_Light_Fit.png?checksum=f978013e-3f62-4217-a162-849c716503b4?tr=n-logo_80" />
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai4.it">
+    <display-name lang="it">Rai 4</display-name>
+    <icon src="https://guidatv.sky.it/logo/502rai4hd_Light_Fit.png?checksum=08945415-888e-4a64-96fe-c5806670a583?tr=n-logo_80" />
+    <icon src="https://guidatv.sky.it/logo/502rai4hd_Light_Fit.png?checksum=08945415-888e-4a64-96fe-c5806670a583?tr=n-logo_80" />
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai5.it">
+    <display-name lang="it">Rai 5</display-name>
+    <icon src="https://guidatv.sky.it/logo/503rai5hd_Light_Fit.png?checksum=70ef29f7-6490-4493-b4e8-059952a16086?tr=n-logo_80" />
+    <icon src="https://guidatv.sky.it/logo/503rai5hd_Light_Fit.png?checksum=70ef29f7-6490-4493-b4e8-059952a16086?tr=n-logo_80" />
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="RaiMovie.it">
+    <display-name lang="it">Rai Movie</display-name>
+    <icon src="https://guidatv.sky.it/logo/504raimoviehd_Light_Fit.png?checksum=c627680a-9d6e-40af-a9e9-d41075677d29?tr=n-logo_80" />
+    <icon src="https://guidatv.sky.it/logo/504raimoviehd_Light_Fit.png?checksum=c627680a-9d6e-40af-a9e9-d41075677d29?tr=n-logo_80" />
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <programme start="20251120104500 +0000" stop="20251120110000 +0000" channel="Rai1.it">
+    <title lang="it">TG1</title>
+    <desc lang="it">Intrattenimento.</desc>
+    <category lang="it">Intrattenimento</category>
+    <icon src="https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png" />
+  </programme>
+  <programme start="20251120120000 +0000" stop="20251120130000 +0000" channel="Rai3.it">
+    <title lang="it">TG Regione</title>
+    <desc lang="it">Intrattenimento.</desc>
+    <category lang="it">Intrattenimento</category>
+    <icon src="https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png" />
+  </programme>
+  <programme start="20251120123000 +0000" stop="20251120130000 +0000" channel="Rete4.it">
+    <title lang="it">TG4 - L'ultima ora</title>
+    <desc lang="it">Notiziario.</desc>
+    <category lang="it">Informazione</category>
+    <category lang="it">Notiziario</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20251120195500 +0000" stop="20251120204000 +0000" channel="Canale5.it">
+    <title lang="it">Striscia la notizia</title>
+    <desc lang="it">Intrattenimento.</desc>
+    <category lang="it">Intrattenimento</category>
+    <icon src="https://guidatv.sky.it/uuid/77fd413e-10c0-482d-89c0-be4c7188708c/cover?territory=IT&amp;md5ChecksumParam=592d3c12660d5e1657c9df764f69707c" />
+    <episode-num system="onscreen">S14 E6</episode-num>
+  </programme>
+  </tv>
