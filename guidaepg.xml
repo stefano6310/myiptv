@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="[EPGMaker] v.1.140.9409 by CrAcK75" generator-info-url="http://www.epg-guide.com/" generator-info-email="info@epg-guide.com" generator-info-creation="EPG Created on 21/11/2025 08:30:02 with [EPGMaker] v.1.140.9409 Copyright by CrAcK75">
+  <channel id="20Mediaset.it">
+    <display-name lang="it">20 Mediaset</display-name>
+  </channel>
+  <channel id="20Mediaset.it">
+    <display-name lang="it">20 Mediaset +1</display-name>
+  </channel>
+  <channel id="20Mediaset.it">
+    <display-name lang="it">20 Mediaset +1 FHD</display-name>
+  </channel>
+  <channel id="20Mediaset.it">
+    <display-name lang="it">20 Mediaset +1 Full HD</display-name>
+  </channel>
+  <channel id="20Mediaset.it">
+    <display-name lang="it">20 Mediaset +1 HD</display-name>
+  </channel>
+  <channel id="20Mediaset.it">
+    <display-name lang="it">20 Mediaset +24</display-name>
+  </channel>
+  <channel id="20Mediaset.it">
+    <display-name lang="it">20 Mediaset +24 FHD</display-name>
+  </channel>
+  <channel id="20Mediaset.it">
+    <display-name lang="it">20 Mediaset +24 Full HD</display-name>
+  </channel>
+  <channel id="20Mediaset.it">
+    <display-name lang="it">20 Mediaset +24 HD</display-name>
+  </channel>
+  <channel id="20Mediaset.it">
+    <display-name lang="it">20 Mediaset FHD</display-name>
+  </channel>
+  <channel id="20Mediaset.it">
+    <display-name lang="it">20 Mediaset Full HD</display-name>
+  </channel>
+  <channel id="20Mediaset.it">
+    <display-name lang="it">20 Mediaset HD</display-name>
+  </channel>
+
+  <channel id="7Gold Telepadova HD">
+    <display-name lang="it">7Gold Telepadova HD</display-name>
+  </channel>
+  <channel id="7Gold Telepadova SD">
+    <display-name lang="it">7Gold Telepadova SD</display-name>
+  </channel>
+  <channel id="Canale5.it">
+    <display-name lang="it">Canale 5</display-name>
+  </channel>
+  <channel id="Canale5.it">
+    <display-name lang="it">Canale 5 FHD</display-name>
+  </channel>
+  <channel id="Canale5.it">
+    <display-name lang="it">Canale 5 Full HD</display-name>
+  </channel>
+  <channel id="Canale5.it">
+    <display-name lang="it">Canale 5 HD</display-name>
+  </channel>
+  <channel id="Canale5.it">
+    <display-name lang="it">Canale 5 SD</display-name>
+  </channel>
+
+  <channel id="Cartoonito.it">
+    <display-name lang="it">Cartoonito</display-name>
+  </channel>
+  <channel id="Cartoonito.it">
+    <display-name lang="it">Cartoonito HD</display-name>
+  </channel>
+
+  <channel id="Cielo.it">
+    <display-name lang="it">Cielo</display-name>
+  </channel>
+  <channel id="Cielo.it">
+    <display-name lang="it">Cielo HD</display-name>
+  </channel>
+  <channel id="Cielo.it">
+    <display-name lang="it">Cielo SD</display-name>
+  </channel>
+
+  <channel id="Dmax.it">
+    <display-name lang="it">DMAX</display-name>
+  </channel>
+  <channel id="Dmax.it">
+    <display-name lang="it">DMAX HD</display-name>
+  </channel>
+  <channel id="Dmax.it">
+    <display-name lang="it">DMAX SD</display-name>
+  </channel>
+
+  <channel id="Focus.it">
+    <display-name lang="it">Focus</display-name>
+  </channel>
+  <channel id="Focus.it">
+    <display-name lang="it">Focus HD</display-name>
+  </channel>
+  <channel id="Focus.it">
+    <display-name lang="it">Focus SD</display-name>
+  </channel>
+
+  <channel id="Italia1.it">
+    <display-name lang="it">Italia 1</display-name>
+  </channel>
+  <channel id="Italia1.it">
+    <display-name lang="it">Italia 1 FHD</display-name>
+  </channel>
+  <channel id="Italia1.it">
+    <display-name lang="it">Italia 1 Full HD</display-name>
+  </channel>
+  <channel id="Italia1.it">
+    <display-name lang="it">Italia 1 HD</display-name>
+  </channel>
+  <channel id="Italia1.it">
+    <display-name lang="it">Italia 1 SD</display-name>
+  </channel>
+
+  <channel id="Iris.it">
+    <display-name lang="it">Iris</display-name>
+  </channel>
+  <channel id="Iris.it">
+    <display-name lang="it">Iris HD</display-name>
+  </channel>
+  <channel id="Iris.it">
+    <display-name lang="it">Iris SD</display-name>
+  </channel>
+
+  <channel id="La5.it">
+    <display-name lang="it">La 5</display-name>
+  </channel>
+  <channel id="La5.it">
+    <display-name lang="it">La 5 HD</display-name>
+  </channel>
+  <channel id="La5.it">
+    <display-name lang="it">La 5 SD</display-name>
+  </channel>
+
+  <channel id="La7.it">
+    <display-name lang="it">La7</display-name>
+  </channel>
+  <channel id="La7.it">
+    <display-name lang="it">La7 HD</display-name>
+  </channel>
+  <channel id="La7.it">
+    <display-name lang="it">La7 SD</display-name>
+  </channel>
+
+  <channel id="Nove.it">
+    <display-name lang="it">Nove</display-name>
+  </channel>
+  <channel id="Nove.it">
+    <display-name lang="it">Nove HD</display-name>
+  </channel>
+  <channel id="Nove.it">
+    <display-name lang="it">Nove SD</display-name>
+  </channel>
+  
+  <channel id="Rai1.it">
+    <display-name lang="it">Rai 1</display-name>
+  </channel>
+  <channel id="Rai1.it">
+    <display-name lang="it">Rai 1 HD</display-name>
+  </channel>
+  <channel id="Rai1.it">
+    <display-name lang="it">Rai 1 SD</display-name>
+  </channel>
+
+  <channel id="Rai2.it">
+    <display-name lang="it">Rai 2</display-name>
+  </channel>
+  <channel id="Rai2.it">
+    <display-name lang="it">Rai 2 HD</display-name>
+  </channel>
+  <channel id="Rai2.it">
+    <display-name lang="it">Rai 2 SD</display-name>
+  </channel>
+
+  <channel id="Rai3.it">
+    <display-name lang="it">Rai 3</display-name>
+  </channel>
+  <channel id="Rai3.it">
+    <display-name lang="it">Rai 3 HD</display-name>
+  </channel>
+  <channel id="Rai3.it">
+    <display-name lang="it">Rai 3 SD</display-name>
+  </channel>
+  
+  <channel id="RealTime.it">
+    <display-name lang="it">Real Time</display-name>
+  </channel>
+  <channel id="RealTime.it">
+    <display-name lang="it">Real Time HD</display-name>
+  </channel>
+  <channel id="RealTime.it">
+    <display-name lang="it">Real Time SD</display-name>
+  </channel>
+
+  <channel id="Rete4.it">
+    <display-name lang="it">Rete 4</display-name>
+  </channel>
+  <channel id="Rete4.it">
+    <display-name lang="it">Rete 4 FHD</display-name>
+  </channel>
+  <channel id="Rete4.it">
+    <display-name lang="it">Rete 4 Full HD</display-name>
+  </channel>
+  <channel id="Rete4.it">
+    <display-name lang="it">Rete 4 HD</display-name>
+  </channel>
+  <channel id="Rete4.it">
+    <display-name lang="it">Rete 4 SD</display-name>
+  </channel>
+
+  <channel id="Tgcom24.it">
+    <display-name lang="it">TGCOM 24</display-name>
+  </channel>
+  <channel id="Tgcom24.it">
+    <display-name lang="it">TGCOM 24 HD</display-name>
+  </channel>
+  <channel id="Tgcom24.it">
+    <display-name lang="it">TGCOM 24 SD</display-name>
+  </channel>
+
+  <channel id="TopCrime.it">
+    <display-name lang="it">Top Crime</display-name>
+  </channel>
+  <channel id="TopCrime.it">
+    <display-name lang="it">Top Crime HD</display-name>
+  </channel>
+  <channel id="TopCrime.it">
+    <display-name lang="it">Top Crime SD</display-name>
+  </channel>
+
+  <channel id="Tv8.it">
+    <display-name lang="it">TV8</display-name>
+  </channel>
+  <channel id="Tv8.it">
+    <display-name lang="it">TV8 HD</display-name>
+  </channel>
+  <channel id="Tv8.it">
+    <display-name lang="it">TV8 SD</display-name>
+  </channel>
+
+  <programme start="20251123190000 +0100" stop="20251123200000 +0100" channel="Canale5.it">
+    <title lang="it">Caduta Libera - Inizia la sfida</title>
+    <desc lang="it">Quiz show condotto da Gerry Scotti. Un campione e 10 sfidanti si contendono il montepremi di 500 mila euro in un duello fatto di cultura generale e agilità. - EPG by epg-guide.com</desc>
+  </programme>
+  <programme start="20251123203000 +0100" stop="20251123211500 +0100" channel="Rete4.it">
+    <title lang="it">Stasera Italia</title>
+    <desc lang="it">Approfondimento politico e di attualità condotto da Barbara Palombelli. - EPG by epg-guide.com</desc>
+  </programme>
+  <programme start="20251123184500 +0100" stop="20251123200000 +0100" channel="Rai1.it">
+    <title lang="it">L'Eredità</title>
+    <desc lang="it">Il celebre gioco a premi di Rai 1, condotto da Marco Liorni, con le sfide della 'Ghigliottina' e della 'Scossa'. - EPG by epg-guide.com</desc>
+  </programme>
+  <programme start="20251123190000 +0100" stop="20251123200000 +0100" channel="Rai3.it">
+    <title lang="it">TGR - Edizione principale</title>
+    <desc lang="it">Notiziario regionale. - EPG by epg-guide.com</desc>
+  </programme>
+  
+  </tv>
